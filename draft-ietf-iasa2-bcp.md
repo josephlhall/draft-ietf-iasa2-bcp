@@ -10,6 +10,8 @@ area: General
 keyword: Internet-Draft
 category: bcp
 wg: iasa2
+updates: 4071
+BCP: 101
 
 stand_alone: yes
 pi: [toc, sortrefs, symrefs]
@@ -37,6 +39,9 @@ normative:
    [RFC3777]  Galvin, J., "IAB and IESG Selection, Confirmation, and
               Recall Process: Operation of the Nominating and Recall
               Committees", BCP 10, RFC 3777, June 2004.
+              
+   [RFC4071]  Austein, R. and Wijnen, B., "Structure of the IETF Administrative 
+              Support Activity (IASA)", BCP 101, RFC 4071, April 2005.              
 
 informative:
 
@@ -63,21 +68,10 @@ informative:
 
    [RFC3710]  Alvestrand, H., "An IESG charter", RFC 3710, February
               2004.
-
-
-
-
-
-
-
-
-
-
-
+              
 --- abstract
 
-(FROM 4071 - NEEDS TO BE UPDATED)
-This document describes the structure of the IETF Administrative Support Activity (IASA) as an activity housed within the Internet Society (ISOC).  It defines the roles and responsibilities of the IETF Administrative Oversight Committee (IAOC), the IETF Administrative Director (IAD), and ISOC in the fiscal and administrative support of the IETF standards process.  It also defines the membership and selection rules for the IAOC.
+This document describes the structure of the IETF Administrative Support Activity (IASA) as an activity of the IETF Administration Limited Liability Company (LLC), which is organized as an entity under the Internet Society (ISOC).  It defines the roles and responsibilities of the IETF Administration LLC, the Board of Directors of the IETF Administration LLC, and the IETF Executive Director (IED), in the fiscal and administrative support of the IETF standards process.  It also defines the membership and selection rules for the IETF Administration LLC's Board.
 
 --- middle
 
