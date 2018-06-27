@@ -1,7 +1,7 @@
 ---
 
-title: Structure of the IETF Administrative Support Activity 2.0 (IASA2)
-abbrev: IASA 2.0 BCP
+title: Structure of the IETF Administrative Support Activity, Version 2 (IASA2)
+abbrev: IASA 2 BCP
 docname: draft-ietf-iasa2-bcp-latest
 category: bcp
 
@@ -41,7 +41,9 @@ normative:
               Committees", BCP 10, RFC 3777, June 2004.
               
    [RFC4071]  Austein, R. and Wijnen, B., "Structure of the IETF Administrative 
-              Support Activity (IASA)", BCP 101, RFC 4071, April 2005.              
+              Support Activity (IASA)", BCP 101, RFC 4071, April 2005.   
+              
+   [draft-ietf-iasa2-struct] Haberman, B., Hall, J., and Livingood, J., "Proposed Structure of the IETF Administrative Support Activity (IASA), Version 2.0", June 2018.
 
 informative:
 
@@ -71,61 +73,23 @@ informative:
               
 --- abstract
 
-This document describes the structure of the IETF Administrative Support Activity (IASA) as an activity of the IETF Administration Limited Liability Company (LLC), which is organized as an entity under the Internet Society (ISOC).  It defines the roles and responsibilities of the IETF Administration LLC, the Board of Directors of the IETF Administration LLC, and the IETF Executive Director (IED), in the fiscal and administrative support of the IETF standards process.  It also defines the membership and selection rules for the IETF Administration LLC's Board.
+This document describes the structure of the IETF Administrative Support Activity (IASA) as an activity of the IETF Administration Limited Liability Company (LLC), which is organized as an entity under the Internet Society (ISOC).  It defines the roles and responsibilities of the IETF Administration LLC, the Board of Directors of the IETF Administration LLC, and the IETF Executive Director (IED) in the fiscal and administrative support of the IETF standards process.  It also defines the membership and selection rules for the IETF Administration LLC's Board.
 
 --- middle
 
 # Introduction
-(FROM 4071 - NEEDS TO BE UPDATED)
 
-   This document describes the structure of the IETF Administrative
-   Support Activity (IASA) as an activity housed within the Internet
-   Society (ISOC).  It defines the roles and responsibilities of the
-   IETF Administrative Oversight Committee (IAOC), the IETF
-   Administrative Director (IAD), and ISOC in the fiscal and
-   administrative support of the IETF standards process.  It also
-   defines the membership and selection rules for the IAOC.
+This document describes the second interation of the IETF Administrative Support Activity (IASA), replacing the first version of the IASA documented in [RFC4071] and using [draft-ietf-iasa2-struct] as a basis for defining the newest version. The IETF undertakes its technical activities as an ongoing, open, consensus-based process.  This document defines an administrative support structure intended to be responsive to the administrative needs of the IETF technical community, providing fiscal and administrative support of the IETF standards process. 
 
-   The IETF undertakes its technical activities as an ongoing, open,
-   consensus-based process.  This document defines an administrative
-   support structure intended to be responsive to the administrative
-   needs of the IETF technical community, and it describes how that
-   support structure fits under ISOC's organizational umbrella.  This
-   document does not affect the ISOC-IETF working relationship as it
-   relates to standards development or the communication of technical
-   advice relevant to the policy and educational goals of ISOC.
+The IASA is an activity of the IETF Administration Limited Liability Company (LLC), which is organized as an entity under the Internet Society (ISOC).  This document defines the roles and responsibilities of the IETF Administration LLC, the Board of Directors of the IETF Administration LLC, and the IETF Executive Director (IED) and their staff.  It also defines the membership and selection rules for the IETF Administration LLC's Board.
 
-   The IETF Administrative Support Activity (IASA) provides the
-   administrative structure required to support the IETF standards
-   process and to support the IETF's technical activities.  As of the
-   time at which this document was written, this included the work of
-   IETF working groups, the IESG, the IAB, and the IRTF.  Should the
-   IETF standards process at some future date come to include other
-   technical activities, the IAOC is responsible for developing plans to
-   provide administrative support for them.  Such support includes, as
-   appropriate, undertaking or contracting for the work described in
-   [RFC3716], including IETF document and data management, IETF
-   meetings, and any operational agreements or contracts with the RFC
-   Editor and the Internet Assigned Numbers Authority (IANA).  The IASA
-   is also ultimately responsible for the financial activities
+The IASA provides the administrative structure required to support the IETF standards process and to support the IETF's technical activities.  As of the time this document was written, this included the work of IETF working groups, the Internet Engineering Steering Group (IESG), the Internet Architecture Board (IAB), the Internet Research Task Force (IRTF), and the IETF Trust.  Should the IETF standards process at some future date come to include other technical activities, the IASA is responsible for developing plans to provide administrative support for them.  
 
-   associated with IETF administrative support, such as collecting IETF
-   meeting fees, paying invoices, managing budgets and financial
-   accounts, and so forth.
+Such administrative support includes, as appropriate, undertaking or contracting for the work described in [RFC3716], including IETF document and data management, IETF meetings, and any operational agreements or contracts with the RFC Editor and the Internet Assigned Numbers Authority (IANA).  The IASA is also ultimately responsible for the financial activities associated with IETF administrative support, such as collecting IETF meeting fees, paying invoices, managing budgets and financial accounts, and so forth.
 
-   The IASA is responsible for ensuring that the IETF's administrative
-   needs are met, and met well.  The IETF does not expect the IASA to
-   undertake the bulk of this work directly; rather, the IETF expects
-   the IASA to contract this work from others and to manage these
-   contractual relationships to achieve efficiency, transparency, and
-   cost effectiveness.
+The IETF does not expect the IETF Administration LLC to undertake the bulk of its administrative work directly. Rather, the IETF expects that staff and/or contractors will be used to perform the work, while working to achieve efficiency, transparency, and cost effectiveness.
 
-   The IASA is distinct from IETF-related technical functions, such as
-   the RFC Editor, the IANA, and the IETF standards process itself.  The
-   IASA has no influence on the technical decisions of the IETF or on
-   the technical contents of IETF work.  Note, however, that this in no
-   way prevents people who form part of the IASA from participating as
-   individuals in IETF technical activities.
+The IASA is distinct from IETF-related technical functions, such as the RFC Editor, the IANA, and the IETF standards process itself.  The IASA and the IETF Administration LLC has no influence on the technical decisions of the IETF or on the technical contents of IETF work.  Note, however, that this in no way prevents people who form part of the IASA from participating as individuals in IETF technical activities.
 
 # Definitions and Principles
 (FROM 4071 - NEEDS TO BE UPDATED)
