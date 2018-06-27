@@ -92,112 +92,61 @@ The IETF does not expect the IETF Administration LLC to undertake the bulk of it
 The IASA is distinct from IETF-related technical functions, such as the RFC Editor, the IANA, and the IETF standards process itself.  The IASA and the IETF Administration LLC has no influence on the technical decisions of the IETF or on the technical contents of IETF work.  Note, however, that this in no way prevents people who form part of the IASA from participating as individuals in IETF technical activities.
 
 # Definitions and Principles
-(FROM 4071 - NEEDS TO BE UPDATED)
 
-   This section describes terminology and underlying principles used in
-   the rest of this document.
+This section describes terminology and underlying principles used in the rest of this document.
 
-## Alphabet Soup
+## Key Acronyms
 
-   Although most of the terms, abbreviations, and acronyms used in this
-   document are reasonably well known, first-time readers may find this
-   alphabet soup confusing.  This section therefore attempts to provide
-   a quick summary.
+Although most of the terms, abbreviations, and acronyms used in this document are reasonably well known, first-time readers may find this confusing.  This section therefore attempts to provide a quick summary.
 
-   IAB: Internet Architecture Board (see [RFC2026], [RFC2850]).
+IAB: Internet Architecture Board (see [RFC2026], [RFC2850]).
 
-   IAD: IETF Administrative Director, defined by this document.
+IASA: IETF Administrative Support Activity, defined in this document.
 
-   IAOC: IETF Administrative Oversight Committee, defined by this
-         document.
+IED: IETF Executive Director, defined in this document.
 
-   IASA: IETF Administrative Support Activity, defined by this document.
+IESG: Internet Engineering Steering Group (see [RFC2026], [RFC3710]).
 
-   IESG: Internet Engineering Steering Group (see [RFC2026], [RFC3710]).
+IETF: Internet Engineering Task Force (see [RFC3233]).
 
-   IETF: Internet Engineering Task Force (see [RFC3233]).
-
-   ISOC: Internet Society (see [RFC2031] and [ISOC]).
+ISOC: Internet Society (see [RFC2031] and [ISOC]).
 
 ##  Principles of the IASA, IETF, and ISOC Relationship
 
-   This section attempts to describe principles underlying the
-   mechanisms described in this document.
+This section attempts to describe principles underlying the IASA.
 
-   1.  The IETF intends to establish a structure (the IASA) in order to
-       have IETF administrative functions managed appropriately,
-       according to good administrative, fiscal, and management
-       principles.  The IASA includes the IAD and the IAOC and shall be
-       housed within ISOC.
+   1.  The IETF intends to update its structure (the IASA) in order to have IETF administrative functions managed appropriately, according to good administrative, fiscal, and management principles.  The IASA includes the IED and the Board of Directors of the IETF Administration LLC.
 
-   2.  The IAD and IAOC shall not have any authority over the IETF
-       standards development activities.  This document does not modify
-       ISOC's other roles related to the IETF standards process.
+   2.  The IED and Board of the IETF Administration LLC shall not have any authority over the IETF standards development activities.  
+   
+   3.  The IETF Administration LLC is organized under ISOC as a so-called "disregarded entity" (CITATION NEEDED). However, this document does not modify any of ISOC's other roles related to the IETF standards process.
 
-   3.  The IAD and IAOC, in cooperation with the ISOC President/CEO and
-       staff, shall develop an annual budget for the IASA.  The budget
-       must clearly identify all expected direct and indirect
-       expenditures related to the IASA.  ISOC, through its normal
-       procedures, shall evaluate and approve the IASA budget as part of
-       ISOC's own budget process and commit to ensuring funds to support
-       the approved budget.
+   4.  The IED and IETF Administration LLC shall develop an annual budget for the IASA.  The budget must clearly identify all expected direct and indirect expenditures related to the IASA.  
 
-   4.  Responsibility for the evaluation, review, and negotiation of
-       contracts and other IETF administrative and support agreements
-       and other expenditures of funds under the IASA shall rest with
-       the IAD, operating in accordance with policies and procedures set
-       by the IAOC and consistent with ISOC operating policies.
+   5.  Responsibility for the evaluation, review, and negotiation of contracts and other IETF administrative and support agreements and other expenditures of funds under the IASA shall rest with the IED, operating in accordance with policies and procedures set by the Board of the IETF Administration LLC and consistent with the IETF Administration LLC's bylaws and policies.
 
-   5.  Once funds or in-kind donations have been credited to the IASA
-       accounts, they shall be irrevocably allocated to the support of
-       the IETF.
+   6.  There shall be a detailed public accounting to separately identify all funds available to and all expenditures relating to the IETF and the IASA, including any donations, of funds or in kind, received by ISOC for IETF-related activities. 
 
-   6.  There shall be a detailed public accounting to separately
-       identify all funds available to and all expenditures relating to
-       the IETF and to the IASA, including any donations, of funds or in
-       kind, received by ISOC for IETF-related activities.  In-kind
-       donations shall only be accepted at the direction of the IAD and
-       IAOC.
+   7.  Amongst the IETF, IASA and ISOC, the IETF, through the IASA, shall have a perpetual right to use, display, distribute, reproduce, modify, and create derivatives of all software and data created in support of IETF activities.
 
-   7.  Amongst the IETF, IASA and ISOC, the IETF, through the IASA,
-       shall have a perpetual right to use, display, distribute,
-       reproduce, modify, and create derivatives of all software and
-       data created in support of IETF activities.
+   9.  The Board of the IETF Administration LLC, in cooperation with IED, shall use reasonable efforts to ensure that sufficient reserves exist to keep the IETF operational in the case of unexpected events such as income shortfalls.
 
-   8.  The IASA, in cooperation with ISOC, shall use reasonable efforts
-       to ensure that sufficient reserves exist to keep the IETF
-       operational in the case of unexpected events such as income
-       shortfalls.
-
-   The remainder of this document contains details based on the above
-   principles.
+The remainder of this document contains details based on the above principles.
 
 ##  Community Consensus and Grant of Authority
 
-   The IETF is a consensus-based group, and authority to act on behalf
-   of the community requires a high degree of consensus and the
-   continued consent of the community.  After a careful process of
-   deliberation, a broad-based community consensus emerged to house the
-   IETF Administrative Support Activity (IASA) within the Internet
-   Society.  This document reflects that consensus.
+The IETF is a consensus-based group, and authority to act on behalf of the community requires a high degree of consensus and the continued consent of the community.  After a careful process of deliberation, a broad-based community consensus emerged to revise the IETF Administrative Support Activity (IASA), which is reflected herein.
 
 ##  Termination and Change
 
-   Any change to this agreement shall require a similar level of
-   community consensus and deliberation and shall be reflected by a
-   subsequent Best Current Practice (BCP) document.
+Any change to the IASA structure outlined herein shall require a similar level of community consensus and deliberation and shall be reflected by a subsequent Best Current Practice (BCP) document.
 
-##  Effective Date for Commencement of IASA
+##  Effective Date for Commencement of IASA Version 2 and IETF Administration LLC
 
-   The procedures in this document shall become operational after this
-   document has been approved by the process defined in BCP 9 [RFC2026],
-   including its acceptance as an IETF process BCP by the ISOC Board of
-   Trustees, and after the ISOC Board of Trustees has confirmed its
-   acceptance of ISOC's responsibilities under the terms herein
-   described.
+IASA Version 2 shall become effective upon the legal formation and funding by ISOC of the IETF Administration LLC. Within a reasonably short time thereafter, this document must be approved by the process defined in BCP 9 [RFC2026].
 
 #  Structure of the IASA
-
+(FROM 4071 - NEEDS TO BE UPDATED)
    The IASA structure is designed to ensure accountability and
    transparency of the IETF administrative and fiscal activities to the
    IETF community.  The IETF Administrative Oversight Committee (IAOC)
@@ -264,7 +213,7 @@ The IASA is distinct from IETF-related technical functions, such as the RFC Edit
    changed procedure.
 
 ## IAD Responsibilities
-
+(FROM 4071 - NEEDS TO BE UPDATED)
    The IAD is responsible for working with the IAOC and others to
    understand the administrative requirements of the IETF, and for
    managing the IASA to meet those needs.  This includes determining the
@@ -366,7 +315,7 @@ The IASA is distinct from IETF-related technical functions, such as the RFC Edit
    year.
 
 ## IAOC Responsibilities
-
+(FROM 4071 - NEEDS TO BE UPDATED)
    The IAOC's role is to provide appropriate direction to the IAD, to
    review the IAD's regular reports, and to oversee IASA functions to
    ensure that the administrative needs of the IETF community are being
@@ -412,7 +361,7 @@ The IASA is distinct from IETF-related technical functions, such as the RFC Edit
    IAOC.
 
 ##  Relationship of the IAOC to Existing IETF Leadership
-
+(FROM 4071 - NEEDS TO BE UPDATED)
    The IAOC is directly accountable to the IETF community for the
    performance of the IASA.  However, the nature of the IAOC's work
    involves treating the IESG and IAB as major internal customers of the
@@ -421,7 +370,7 @@ The IASA is distinct from IETF-related technical functions, such as the RFC Edit
    satisfied with the administrative support that the IETF is receiving.
    
 ##  IAOC Decision Making
-
+(FROM 4071 - NEEDS TO BE UPDATED)
    The IAOC attempts to reach consensus on all decisions.  If the IAOC
    cannot achieve a consensus decision, then the IAOC may decide by
    voting.
@@ -434,7 +383,7 @@ The IASA is distinct from IETF-related technical functions, such as the RFC Edit
    minutes shall be published in a timely fashion.
 
 ##  Review and Appeal of IAD and IAOC Decision
-
+(FROM 4071 - NEEDS TO BE UPDATED)
    The IAOC is directly accountable to the IETF community for the
    performance of the IASA.  In order to achieve this, the IAOC and IAD
    will ensure that guidelines are developed for regular operational
@@ -784,37 +733,12 @@ The IASA is distinct from IETF-related technical functions, such as the RFC Edit
 
 #  Security Considerations
 
-This document describes the structure of the IETF's administrative support activity.  It introduces no security considerations for the Internet.
+This document describes the structure of the IETF's Administrative Support Activity.  It introduces no security considerations for the Internet.
 
 # IANA Considerations
 
 This document has no IANA considerations in the traditional sense. However, some of the information in this document may affect how the IETF standards process interfaces with the IANA, so the IANA may be interested in the contents.
 
 # Acknowledgments
-(FROM 4071 - NEEDS TO BE UPDATED)
 
-   The editors would like to thank everyone who provided feedback on
-   this document or any of its predecessors back to the original
-   "Scenario O" e-mail message.  In particular, the editors would like
-   to thank: Bernard Aboba, Jari Arkko, Fred Baker, Scott Bradner, Scott
-   Brim, Brian Carpenter, Jorge Contreras, Dave Crocker, Elwyn Davies,
-   Spencer Dawkins, Avri Doria, Tony Hain, Joel Halpern, Ted Hardie, Sam
-   Hartman, Russel Housley, Geoff Huston, Jeff Hutzelman, John Klensin,
-   Valdis Kletnieks, Eliot Lear, Henrik Levkowetz, Kurt Erik Lindqvist,
-   John Loughney.  Carl Malamud, Allison Mankin, Tom Petch, Eric
-   Rescorla, Pete Resnick, Glenn Ricart, Jonne Soininen, Lynn St. Amour,
-   and Michael StJohns.
-
-   Special thanks are due to Leslie Daigle and Margaret Wasserman, who
-   wrote the original "Scenario O" message and edited the earliest
-   versions of this document.
-
-   Special thanks are also due to Henrik Levkowetz for kindly
-   volunteering to maintain the issue tracking system associated with
-   this document.
-
-   Last, special thanks are due to Harald Alvestrand, for leading the
-   search for consensus on the IETF mailing list.
-
-   No doubt the above list is incomplete.  We apologize to anyone whom
-   we left out.
+The editors thank everyone who provided feedback on this document, primarily in the IASA2 working group.  
