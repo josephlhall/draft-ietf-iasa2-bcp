@@ -23,16 +23,23 @@ author:
     organization: CDT
     email: joe@cdt.org
   -
-    ins: J. Livingood
+https://github.com/josephlhall/draft-ietf-iasa2-bcp/edit/master/draft-ietf-iasa2-bcp.md    ins: J. Livingood
     name: Jason Livingood
     organization: Comcast
     email: jason_livingood@comcast.com
+
+  RFC7437:
+  author: Murray Kucherawy
+  date: 2015-07
+  target: https://tools.ietf.org/html/rfc7437
 
 normative:
 
    [RFC2026]  Bradner, S., "The Internet Standards Process -- Revision
               3", BCP 9, RFC 2026, October 1996.
 
+   [RFC2119] Bradner, S., "Key words for use in RFCs to Indicate Requirement Levels", BCP 14, RFC 2119, March 1997.
+   
    [RFC3716]  IAB Advisory Committee, "The IETF in the Large:
               Administration and Execution", RFC 3716, March 2004.
 
@@ -42,6 +49,8 @@ normative:
               
    [RFC4071]  Austein, R. and Wijnen, B., "Structure of the IETF Administrative 
               Support Activity (IASA)", BCP 101, RFC 4071, April 2005.   
+              
+   [RFC7437] Kucherawy, M., "IAB, IESG, and IAOC Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees", January 2015.
               
    [draft-ietf-iasa2-struct] Haberman, B., Hall, J., and Livingood, J., "Proposed Structure of the IETF Administrative Support Activity (IASA), Version 2.0", June 2018.
 
